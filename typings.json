@@ -1,0 +1,11 @@
+{
+  "name": "react-collage",
+  "version": false,
+  "dependencies": {
+    "chai": "registry:npm/chai#3.5.0+20160415060238"
+  },
+  "ambientDependencies": {
+    "react": "registry:dt/react#0.14.0+20160412154040",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040"
+  }
+}
